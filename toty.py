@@ -1,3 +1,4 @@
+from flet import *
 import pygame
 import random
 
